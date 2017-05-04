@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  maxamount: 1.5
+  amount: 1.5
+
+two:
+  maxamount: 1.5
+  amount: 1.5
